@@ -1,0 +1,10 @@
+#Mon Sep 10 15:06:00 CST 2012
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/web.xml=GBK
+encoding//src/edu/whut/web/exception=GBK
+encoding//src/edu/whut/web/exception/BaseException.java=UTF-8
+encoding//src/edu/whut/web/exception/HaveExistException.java=UTF-8
+encoding//src/edu/whut/web/exception/NoUserException.java=UTF-8
+encoding//src/edu/whut/web/exception/PasswordMatchException.java=UTF-8
+encoding//src/user.properties=GBK
+encoding/<project>=UTF-8

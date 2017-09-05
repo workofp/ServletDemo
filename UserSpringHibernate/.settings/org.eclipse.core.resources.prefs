@@ -1,0 +1,4 @@
+#Wed Sep 26 21:01:12 CST 2012
+eclipse.preferences.version=1
+encoding//src/edu/whut/web/exception/HaveExistException.java=UTF-8
+encoding//src/edu/whut/web/exception/NoUserException.java=UTF-8
